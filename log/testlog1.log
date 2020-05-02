@@ -1,0 +1,379 @@
+2020-04-30 19:59:05,058 [main] INFO restApi - Before setUp got intialized
+2020-04-30 19:59:10,885 [main] INFO restApi - After setUp completion of scenario
+2020-04-30 21:53:36,153 [main] INFO restApi - Before setUp got intialized
+2020-04-30 21:53:42,139 [main] INFO restApi - After setUp completion of scenario
+2020-04-30 23:19:03,845 [main] INFO restApi - Before setUp got intialized
+2020-04-30 23:19:10,552 [main] INFO restApi - After setUp completion of scenario
+2020-04-30 23:20:53,391 [main] INFO restApi - Before setUp got intialized
+2020-04-30 23:20:55,018 [main] INFO restApi - After setUp completion of scenario
+2020-04-30 23:21:45,700 [main] INFO restApi - Before setUp got intialized
+2020-04-30 23:21:51,651 [main] INFO restApi - After setUp completion of scenario
+2020-04-30 23:22:29,019 [main] INFO restApi - Before setUp got intialized
+2020-04-30 23:22:30,162 [main] INFO restApi - After setUp completion of scenario
+2020-04-30 23:34:23,156 [main] INFO restApi - Before setUp got intialized
+2020-04-30 23:34:28,795 [main] INFO restApi - After setUp completion of scenario
+2020-04-30 23:45:54,717 [main] INFO restApi - Before setUp got intialized
+2020-04-30 23:46:01,185 [main] INFO restApi - Step 2 got 
+2020-04-30 23:46:01,192 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 00:05:07,576 [main] INFO restApi - Before setUp got intialized
+2020-05-01 00:05:07,806 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 00:05:18,130 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 00:10:56,479 [main] INFO restApi - Before setUp got intialized
+2020-05-01 00:10:56,712 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 00:11:09,293 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 10:05:39,234 [main] INFO restApi - Before setUp got intialized
+2020-05-01 10:05:39,774 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 10:05:47,234 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 11:04:02,939 [main] INFO restApi - Before setUp got intialized
+2020-05-01 11:04:03,214 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 11:04:04,230 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 11:06:23,768 [main] INFO restApi - Before setUp got intialized
+2020-05-01 11:06:23,971 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 11:06:29,420 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 11:39:50,695 [main] INFO restApi - Before setUp got intialized
+2020-05-01 11:39:50,873 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 11:39:56,230 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 11:42:54,629 [main] INFO restApi - Before setUp got intialized
+2020-05-01 11:42:54,833 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 11:42:58,930 [main] INFO restApi - Valid Response so the test case got passed
+2020-05-01 11:42:58,932 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 12:09:07,468 [main] INFO restApi - Before setUp got intialized
+2020-05-01 12:09:07,739 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 12:09:12,153 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 12:09:12,162 [main] INFO restApi - Before setUp got intialized
+2020-05-01 12:09:12,171 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 12:09:13,355 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 12:09:13,366 [main] INFO restApi - Before setUp got intialized
+2020-05-01 12:09:13,370 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 12:09:14,970 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 12:11:41,767 [main] INFO restApi - Before setUp got intialized
+2020-05-01 12:11:41,988 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 12:11:46,142 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 12:11:46,147 [main] INFO restApi - Before setUp got intialized
+2020-05-01 12:11:46,151 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 12:11:47,332 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 12:11:47,351 [main] INFO restApi - Before setUp got intialized
+2020-05-01 12:11:47,356 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 12:11:47,370 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 12:31:22,353 [main] INFO restApi - Before setUp got intialized
+2020-05-01 12:31:22,529 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 12:31:26,862 [main] INFO restApi - Valid Response so the test case got passed
+2020-05-01 12:31:26,864 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 12:31:26,870 [main] INFO restApi - Before setUp got intialized
+2020-05-01 12:31:26,875 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 12:31:35,124 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 12:31:35,129 [main] INFO restApi - Before setUp got intialized
+2020-05-01 12:31:35,134 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 12:31:36,450 [main] INFO restApi - InValid Response so the test case got failed
+2020-05-01 12:31:36,454 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 15:08:09,342 [main] INFO restApi - Before setUp got intialized
+2020-05-01 15:08:09,532 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 15:08:13,739 [main] INFO restApi - Valid Response so the test case got passed
+2020-05-01 15:08:13,741 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 15:08:13,748 [main] INFO restApi - Before setUp got intialized
+2020-05-01 15:08:13,753 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 15:08:20,282 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 15:08:20,302 [main] INFO restApi - Before setUp got intialized
+2020-05-01 15:08:20,314 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 15:08:21,954 [main] INFO restApi - Invalid response from the applicaiton 400
+2020-05-01 15:08:21,958 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 15:16:49,157 [main] INFO restApi - Before setUp got intialized
+2020-05-01 15:16:49,336 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 15:16:53,472 [main] INFO restApi - Valid Response so the test case got passed
+2020-05-01 15:16:53,475 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 15:16:53,486 [main] INFO restApi - Before setUp got intialized
+2020-05-01 15:16:53,498 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 15:17:00,090 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 15:17:00,099 [main] INFO restApi - Before setUp got intialized
+2020-05-01 15:17:00,107 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 15:17:01,707 [main] INFO restApi - Invalid response from the applicaiton 400
+2020-05-01 15:17:01,711 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 15:20:09,767 [main] INFO restApi - Before setUp got intialized
+2020-05-01 15:20:09,946 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 15:20:14,072 [main] INFO restApi - Valid Response so the test case got passed
+2020-05-01 15:20:14,078 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 15:20:14,083 [main] INFO restApi - Before setUp got intialized
+2020-05-01 15:20:14,087 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 15:20:21,513 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 15:20:21,525 [main] INFO restApi - Before setUp got intialized
+2020-05-01 15:20:21,539 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 15:20:23,735 [main] INFO restApi - Invalid response from the applicaiton 400
+2020-05-01 15:20:23,739 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 15:51:50,242 [main] INFO restApi - Before setUp got intialized
+2020-05-01 15:51:50,455 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 15:51:56,501 [main] INFO restApi - Valid Response so the test case got passed
+2020-05-01 15:51:56,503 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 15:51:56,513 [main] INFO restApi - Before setUp got intialized
+2020-05-01 15:51:56,556 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 15:52:04,048 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 15:52:04,077 [main] INFO restApi - Before setUp got intialized
+2020-05-01 15:52:04,107 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 15:52:05,407 [main] INFO restApi - Invalid response from the applicaiton 400
+2020-05-01 15:52:05,410 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 16:03:27,007 [main] INFO restApi - Before setUp got intialized
+2020-05-01 16:03:27,202 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 16:03:31,386 [main] INFO restApi - Valid Response so the test case got passed
+2020-05-01 16:03:31,399 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 16:03:31,410 [main] INFO restApi - Before setUp got intialized
+2020-05-01 16:03:31,423 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 16:03:38,010 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 16:03:38,017 [main] INFO restApi - Before setUp got intialized
+2020-05-01 16:03:38,027 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 16:03:39,413 [main] INFO restApi - Invalid response from the applicaiton 400
+2020-05-01 16:03:39,418 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 16:08:04,391 [main] INFO restApi - Before setUp got intialized
+2020-05-01 16:08:04,570 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 16:08:09,046 [main] INFO restApi - Valid Response so the test case got passed
+2020-05-01 16:08:09,048 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 16:08:09,052 [main] INFO restApi - Before setUp got intialized
+2020-05-01 16:08:09,056 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 16:08:16,170 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 16:08:16,179 [main] INFO restApi - Before setUp got intialized
+2020-05-01 16:08:16,191 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 16:08:17,837 [main] INFO restApi - Invalid response from the applicaiton 400
+2020-05-01 16:08:17,841 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 16:11:25,734 [main] INFO restApi - Before setUp got intialized
+2020-05-01 16:11:25,982 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 16:11:30,704 [main] INFO restApi - Valid Response so the test case got passed
+2020-05-01 16:11:30,707 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 16:11:30,713 [main] INFO restApi - Before setUp got intialized
+2020-05-01 16:11:30,719 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 16:11:36,807 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 16:11:36,820 [main] INFO restApi - Before setUp got intialized
+2020-05-01 16:11:36,838 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 16:11:38,490 [main] INFO restApi - Invalid response from the applicaiton 400
+2020-05-01 16:11:38,494 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 18:37:35,614 [main] INFO restApi - Before setUp got intialized
+2020-05-01 18:37:35,845 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 18:37:40,328 [main] INFO restApi - Invalid response from the applicaiton 400
+2020-05-01 18:37:40,330 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 18:37:40,338 [main] INFO restApi - Before setUp got intialized
+2020-05-01 18:37:40,346 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 18:37:47,266 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 18:37:47,280 [main] INFO restApi - Before setUp got intialized
+2020-05-01 18:37:47,292 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 18:37:48,980 [main] INFO restApi - Valid Response so the test case got passed
+2020-05-01 18:37:48,982 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 18:40:01,047 [main] INFO restApi - Before setUp got intialized
+2020-05-01 18:40:01,246 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 18:40:05,657 [main] INFO restApi - Invalid response from the applicaiton 400
+2020-05-01 18:40:05,659 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 18:40:05,666 [main] INFO restApi - Before setUp got intialized
+2020-05-01 18:40:05,672 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 18:40:12,790 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 18:40:12,807 [main] INFO restApi - Before setUp got intialized
+2020-05-01 18:40:12,823 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 18:40:14,106 [main] INFO restApi - Valid Response so the test case got passed
+2020-05-01 18:40:14,111 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 18:42:43,621 [main] INFO restApi - Before setUp got intialized
+2020-05-01 18:42:43,790 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 18:42:47,825 [main] INFO restApi - Invalid response from the applicaiton 400
+2020-05-01 18:42:47,827 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 18:42:47,837 [main] INFO restApi - Before setUp got intialized
+2020-05-01 18:42:47,846 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 18:42:54,880 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 18:42:54,891 [main] INFO restApi - Before setUp got intialized
+2020-05-01 18:42:54,900 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 18:42:56,092 [main] INFO restApi - Valid Response so the test case got passed
+2020-05-01 18:42:56,094 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 21:06:12,677 [main] INFO restApi - Before setUp got intialized
+2020-05-01 21:06:12,858 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 21:06:17,130 [main] INFO restApi - Invalid response from the applicaiton 400
+2020-05-01 21:06:17,132 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 21:06:17,138 [main] INFO restApi - Before setUp got intialized
+2020-05-01 21:06:17,143 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 21:06:23,774 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 21:06:23,778 [main] INFO restApi - Before setUp got intialized
+2020-05-01 21:06:23,781 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 21:06:25,135 [main] INFO restApi - Invalid response from the applicaiton 400
+2020-05-01 21:06:25,137 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 21:06:25,142 [main] INFO restApi - Before setUp got intialized
+2020-05-01 21:06:25,149 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 21:06:25,154 [main] INFO restApi - Before setUp got intialized
+2020-05-01 21:06:25,158 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 21:06:25,162 [main] INFO restApi - Before setUp got intialized
+2020-05-01 21:06:25,167 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 22:17:41,027 [main] INFO restApi - Before setUp got intialized
+2020-05-01 22:17:41,197 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-01 22:17:50,169 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 22:18:55,226 [main] INFO restApi - Before setUp got intialized
+2020-05-01 22:18:55,389 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-01 22:18:59,370 [main] INFO restApi - Valid Response so the test case got passed
+2020-05-01 22:18:59,373 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 22:19:49,843 [main] INFO restApi - Before setUp got intialized
+2020-05-01 22:19:50,006 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-01 22:19:53,814 [main] INFO restApi - Valid Response so the test case got passed
+2020-05-01 22:19:53,817 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 22:41:11,509 [main] INFO restApi - Before setUp got intialized
+2020-05-01 22:41:11,701 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-01 22:41:16,796 [main] INFO restApi - Valid Response so the test case got passed
+2020-05-01 22:41:16,798 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 22:42:12,418 [main] INFO restApi - Before setUp got intialized
+2020-05-01 22:42:12,626 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-01 22:42:17,672 [main] INFO restApi - Invalid response from the applicaiton 400
+2020-05-01 22:42:17,675 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 22:43:57,329 [main] INFO restApi - Before setUp got intialized
+2020-05-01 22:43:57,550 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-01 22:44:02,432 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 22:48:32,019 [main] INFO restApi - Before setUp got intialized
+2020-05-01 22:48:32,228 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 22:48:37,128 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 22:48:37,140 [main] INFO restApi - Before setUp got intialized
+2020-05-01 22:48:37,157 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 22:48:44,062 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 22:48:44,067 [main] INFO restApi - Before setUp got intialized
+2020-05-01 22:48:44,071 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-01 22:48:45,452 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 22:48:45,464 [main] INFO restApi - Before setUp got intialized
+2020-05-01 22:48:45,477 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-01 22:48:48,398 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 22:48:48,405 [main] INFO restApi - Before setUp got intialized
+2020-05-01 22:48:48,408 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-01 22:48:55,817 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 22:48:55,823 [main] INFO restApi - Before setUp got intialized
+2020-05-01 22:48:55,831 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 23:02:02,311 [main] INFO restApi - Before setUp got intialized
+2020-05-01 23:02:02,522 [main] INFO restApi - Rates API for Future date Foreign Exchange rates
+2020-05-01 23:02:07,041 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 23:04:27,939 [main] INFO restApi - Before setUp got intialized
+2020-05-01 23:04:28,129 [main] INFO restApi - Rates API for Future date Foreign Exchange rates
+2020-05-01 23:04:32,804 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 23:11:27,015 [main] INFO restApi - Before setUp got intialized
+2020-05-01 23:11:27,219 [main] INFO restApi - Rates API for Future date Foreign Exchange rates
+2020-05-01 23:11:33,890 [main] INFO restApi - After setUp completion of scenario
+2020-05-01 23:12:26,810 [main] INFO restApi - Before setUp got intialized
+2020-05-01 23:12:27,024 [main] INFO restApi - Rates API for Future date Foreign Exchange rates
+2020-05-01 23:12:33,389 [main] INFO restApi - Current date is not present in the response body{"base":"EUR","rates":{"GBP":0.86905,"HKD":8.43,"IDR":16178.05,"ILS":3.8069,"DKK":7.4584,"INR":81.6108,"CHF":1.0558,"MXN":25.7953,"CZK":27.097,"SGD":1.5324,"THB":35.216,"HRK":7.579,"MYR":4.6767,"NOK":11.184,"CNY":7.6665,"BGN":1.9558,"PHP":54.772,"SEK":10.6639,"PLN":4.5336,"ZAR":19.6572,"CAD":1.5077,"ISK":159.3,"BRL":5.8565,"RON":4.8431,"NZD":1.7705,"TRY":7.5979,"JPY":115.87,"RUB":79.892,"KRW":1313.09,"USD":1.0876,"HUF":352.72,"AUD":1.6598},"date":"2020-04-30"}
+2020-05-01 23:12:33,396 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 00:05:47,579 [main] INFO restApi - Before setUp got intialized
+2020-05-02 00:05:47,746 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 00:05:51,799 [main] INFO restApi - Invalid response other than 200200
+2020-05-02 00:05:51,802 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 00:05:51,804 [main] INFO restApi - Before setUp got intialized
+2020-05-02 00:05:51,817 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 00:05:58,780 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 00:05:58,788 [main] INFO restApi - Before setUp got intialized
+2020-05-02 00:05:58,792 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 00:06:00,558 [main] INFO restApi - Invalid response other than 200400
+2020-05-02 00:06:00,574 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 00:06:00,582 [main] INFO restApi - Before setUp got intialized
+2020-05-02 00:06:00,588 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-02 00:06:02,135 [main] INFO restApi - Invalid response other than 200200
+2020-05-02 00:06:02,136 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 00:06:02,147 [main] INFO restApi - Before setUp got intialized
+2020-05-02 00:06:02,151 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-02 00:06:09,505 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 00:06:09,513 [main] INFO restApi - Before setUp got intialized
+2020-05-02 00:06:09,520 [main] INFO restApi - Rates API for Future date Foreign Exchange rates
+2020-05-02 00:06:11,868 [main] INFO restApi - Current date is not present in the response body{"base":"EUR","rates":{"GBP":0.86905,"HKD":8.43,"IDR":16178.05,"ILS":3.8069,"DKK":7.4584,"INR":81.6108,"CHF":1.0558,"MXN":25.7953,"CZK":27.097,"SGD":1.5324,"THB":35.216,"HRK":7.579,"MYR":4.6767,"NOK":11.184,"CNY":7.6665,"BGN":1.9558,"PHP":54.772,"SEK":10.6639,"PLN":4.5336,"ZAR":19.6572,"CAD":1.5077,"ISK":159.3,"BRL":5.8565,"RON":4.8431,"NZD":1.7705,"TRY":7.5979,"JPY":115.87,"RUB":79.892,"KRW":1313.09,"USD":1.0876,"HUF":352.72,"AUD":1.6598},"date":"2020-04-30"}
+2020-05-02 00:06:11,873 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:06:59,370 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:06:59,646 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 09:07:03,826 [main] INFO restApi - Invalid response other than 200200
+2020-05-02 09:07:03,827 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:07:03,834 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:07:03,838 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 09:07:10,525 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:07:10,532 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:07:10,536 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 09:07:11,810 [main] INFO restApi - Invalid response other than 200400
+2020-05-02 09:07:11,835 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:07:11,841 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:07:11,849 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-02 09:07:13,240 [main] INFO restApi - Invalid response other than 200200
+2020-05-02 09:07:13,242 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:07:13,249 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:07:13,259 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-02 09:07:20,165 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:07:20,171 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:07:20,175 [main] INFO restApi - Rates API for Future date Foreign Exchange rates
+2020-05-02 09:07:22,986 [main] INFO restApi - Current date is not present in the response body{"base":"EUR","rates":{"GBP":0.86905,"HKD":8.43,"IDR":16178.05,"ILS":3.8069,"DKK":7.4584,"INR":81.6108,"CHF":1.0558,"MXN":25.7953,"CZK":27.097,"SGD":1.5324,"THB":35.216,"HRK":7.579,"MYR":4.6767,"NOK":11.184,"CNY":7.6665,"BGN":1.9558,"PHP":54.772,"SEK":10.6639,"PLN":4.5336,"ZAR":19.6572,"CAD":1.5077,"ISK":159.3,"BRL":5.8565,"RON":4.8431,"NZD":1.7705,"TRY":7.5979,"JPY":115.87,"RUB":79.892,"KRW":1313.09,"USD":1.0876,"HUF":352.72,"AUD":1.6598},"date":"2020-04-30"}
+2020-05-02 09:07:22,991 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:08:15,477 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:08:15,639 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 09:08:19,710 [main] INFO restApi - Invalid response other than 200200
+2020-05-02 09:08:19,714 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:08:19,721 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:08:19,726 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 09:08:26,582 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:08:26,589 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:08:26,600 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 09:08:28,197 [main] INFO restApi - Invalid response other than 200400
+2020-05-02 09:08:28,204 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:08:28,210 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:08:28,216 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-02 09:08:29,398 [main] INFO restApi - Invalid response other than 200200
+2020-05-02 09:08:29,400 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:08:29,405 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:08:29,415 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-02 09:08:36,688 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:08:36,696 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:08:36,703 [main] INFO restApi - Rates API for Future date Foreign Exchange rates
+2020-05-02 09:08:39,476 [main] INFO restApi - Current date is not present in the response body{"base":"EUR","rates":{"GBP":0.86905,"HKD":8.43,"IDR":16178.05,"ILS":3.8069,"DKK":7.4584,"INR":81.6108,"CHF":1.0558,"MXN":25.7953,"CZK":27.097,"SGD":1.5324,"THB":35.216,"HRK":7.579,"MYR":4.6767,"NOK":11.184,"CNY":7.6665,"BGN":1.9558,"PHP":54.772,"SEK":10.6639,"PLN":4.5336,"ZAR":19.6572,"CAD":1.5077,"ISK":159.3,"BRL":5.8565,"RON":4.8431,"NZD":1.7705,"TRY":7.5979,"JPY":115.87,"RUB":79.892,"KRW":1313.09,"USD":1.0876,"HUF":352.72,"AUD":1.6598},"date":"2020-04-30"}
+2020-05-02 09:08:39,483 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:20:13,290 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:20:13,539 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 09:20:19,469 [main] INFO restApi - Invalid response other than 200200
+2020-05-02 09:20:19,472 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:20:19,483 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:20:19,489 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 09:20:25,736 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:20:25,750 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:20:25,774 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 09:20:27,376 [main] INFO restApi - Invalid response other than 200400
+2020-05-02 09:20:27,388 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:20:27,396 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:20:27,406 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-02 09:20:28,912 [main] INFO restApi - Invalid response other than 200200
+2020-05-02 09:20:28,915 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:20:28,926 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:20:28,948 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-02 09:20:35,349 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:20:35,361 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:20:35,372 [main] INFO restApi - Rates API for Future date Foreign Exchange rates
+2020-05-02 09:20:38,280 [main] INFO restApi - Current date is not present in the response body{"base":"EUR","rates":{"GBP":0.86905,"HKD":8.43,"IDR":16178.05,"ILS":3.8069,"DKK":7.4584,"INR":81.6108,"CHF":1.0558,"MXN":25.7953,"CZK":27.097,"SGD":1.5324,"THB":35.216,"HRK":7.579,"MYR":4.6767,"NOK":11.184,"CNY":7.6665,"BGN":1.9558,"PHP":54.772,"SEK":10.6639,"PLN":4.5336,"ZAR":19.6572,"CAD":1.5077,"ISK":159.3,"BRL":5.8565,"RON":4.8431,"NZD":1.7705,"TRY":7.5979,"JPY":115.87,"RUB":79.892,"KRW":1313.09,"USD":1.0876,"HUF":352.72,"AUD":1.6598},"date":"2020-04-30"}
+2020-05-02 09:20:38,292 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:28:04,142 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:28:04,539 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 09:28:10,683 [main] INFO restApi - valid  response 200
+2020-05-02 09:28:10,688 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:28:10,717 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:28:10,728 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 09:28:17,475 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:28:17,479 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:28:17,485 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 09:28:19,062 [main] INFO restApi - Invalid response other than 200400
+2020-05-02 09:28:19,064 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:28:19,069 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:28:19,078 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-02 09:28:20,325 [main] INFO restApi - valid  response 200
+2020-05-02 09:28:20,327 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:28:20,332 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:28:20,338 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-02 09:28:27,127 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:28:27,133 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:28:27,138 [main] INFO restApi - Rates API for Future date Foreign Exchange rates
+2020-05-02 09:28:29,453 [main] INFO restApi - Current date is not present in the response body{"base":"EUR","rates":{"GBP":0.86905,"HKD":8.43,"IDR":16178.05,"ILS":3.8069,"DKK":7.4584,"INR":81.6108,"CHF":1.0558,"MXN":25.7953,"CZK":27.097,"SGD":1.5324,"THB":35.216,"HRK":7.579,"MYR":4.6767,"NOK":11.184,"CNY":7.6665,"BGN":1.9558,"PHP":54.772,"SEK":10.6639,"PLN":4.5336,"ZAR":19.6572,"CAD":1.5077,"ISK":159.3,"BRL":5.8565,"RON":4.8431,"NZD":1.7705,"TRY":7.5979,"JPY":115.87,"RUB":79.892,"KRW":1313.09,"USD":1.0876,"HUF":352.72,"AUD":1.6598},"date":"2020-04-30"}
+2020-05-02 09:28:29,461 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:29:24,678 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:29:24,951 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 09:29:29,869 [main] INFO restApi - valid  response 200
+2020-05-02 09:29:29,872 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:29:29,888 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:29:29,896 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 09:29:36,761 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:29:36,766 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:29:36,771 [main] INFO restApi - Rates API for Latest Foreign Exchange rate
+2020-05-02 09:29:38,095 [main] INFO restApi - Invalid response other than 200400
+2020-05-02 09:29:38,096 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:29:38,101 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:29:38,104 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-02 09:29:39,580 [main] INFO restApi - valid  response 200
+2020-05-02 09:29:39,581 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:29:39,584 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:29:39,587 [main] INFO restApi - Rates API for Specific date Foreign Exchange rates
+2020-05-02 09:29:45,729 [main] INFO restApi - After setUp completion of scenario
+2020-05-02 09:29:45,732 [main] INFO restApi - Before setUp got intialized
+2020-05-02 09:29:45,738 [main] INFO restApi - Rates API for Future date Foreign Exchange rates
+2020-05-02 09:29:48,341 [main] INFO restApi - Current date is not present in the response body{"base":"EUR","rates":{"GBP":0.86905,"HKD":8.43,"IDR":16178.05,"ILS":3.8069,"DKK":7.4584,"INR":81.6108,"CHF":1.0558,"MXN":25.7953,"CZK":27.097,"SGD":1.5324,"THB":35.216,"HRK":7.579,"MYR":4.6767,"NOK":11.184,"CNY":7.6665,"BGN":1.9558,"PHP":54.772,"SEK":10.6639,"PLN":4.5336,"ZAR":19.6572,"CAD":1.5077,"ISK":159.3,"BRL":5.8565,"RON":4.8431,"NZD":1.7705,"TRY":7.5979,"JPY":115.87,"RUB":79.892,"KRW":1313.09,"USD":1.0876,"HUF":352.72,"AUD":1.6598},"date":"2020-04-30"}
+2020-05-02 09:29:48,347 [main] INFO restApi - After setUp completion of scenario
